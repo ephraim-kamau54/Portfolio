@@ -1,0 +1,179 @@
+body{
+    background-color: goldenrod;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+    
+h2{
+    color: brown;
+    font-family: 'Dancing Script', cursive;
+}
+
+.jumbotron{
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+    border-color: brown(0, 0, 0, 1);
+    box-shadow: inset 2000px 0 0 0 brown(0, 0, 0, 0.5);
+    background-image: url('/images/imageback.jpg');
+}
+.jumbotron-center {
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    width: auto;
+    color: brown;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.jumbotron-center h1 {
+    font-weight: bold;
+    align-content: center;
+    margin-top: 150px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.jumbotron-center h1 span{
+    color: brown;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+.outline-button {
+    border: rgba( 247, 240, 240) 2px solid;
+	padding: 12px 35px;
+	color: #ccc;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px 25px 25px 25px;
+	font-size: 15px;
+	margin-top: 7px;
+    margin-left: 20%;
+}
+
+.outline-button:hover {
+    background-color: brown;
+    color: brown;
+    text-decoration: none;
+}
+
+.website-logo {
+    display: inline-block;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.nav-bar {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 18px;
+}
+
+.nav-bar-links {
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.nav-bar-links a {
+    padding-left: 20px;
+    display: inline-block;
+    list-style: none; 
+    text-decoration: none;
+    color: brown;
+    transition: opacity .125s linear;
+}
+
+.nav-bar-links a:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    transition: opacity .125s linear;
+}
+  
+.nav-bar-links a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+.known{
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.about{
+    columns: 2;
+    color: brown;
+}
+.about p{
+    color: brown;
+}
+.ephraim{
+    height: 450px;
+    width: 350px;
+    margin-left: 100px;
+}
+.biscuits{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    color: brown;
+}
+
+#conctacts{
+    text-align: center;
+    color: brown;  
+}
+.midsection {
+    display: flex;
+    justify-content: center;
+    color: brown;
+}
+#contacts p{
+    font-size: 20px;
+    color: brown;
+    margin-left: 50px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid brown;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: brown;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: brown;
+  }
+
+  .column {
+    margin-left: 90px;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
