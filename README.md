@@ -25,7 +25,7 @@ ephraimkamau54@gmail.com/No. 0745734706
   
 MIT License
 
-Copyright (c) 2021 ephraim-junior
+Copyright (c) 2021 ephraim-kamau/junior
 
 
 
