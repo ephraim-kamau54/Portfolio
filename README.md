@@ -17,7 +17,7 @@ Leave nothing to chance! You want it to be easy for potential users, employers a
 ## Technologies Used 
 * CSS
 * HTML
-* JAVASCRIPT
+
 
 ## Support and contact details 
 ephraimkamau54@gmail.com/No. 0745734706
