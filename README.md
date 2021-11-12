@@ -1,33 +1,43 @@
 # Portfolio project
-  This project is based on how to code
+
+This project is based on how to code
 
 ## Author
-Ephraim Kamau 
-## Description 
-This is a portfolio project,"Index.html","stlye.css" and applied in this project but the owner of this project is still leaning and willing to inprove in coding/implementing to help any one how need any assistance
-## Setup/Installation Requirements GitHub page
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on? Nop
-## Known Bugs
- still leaning how to code  
-## Technologies Used 
-* CSS
-* HTML
-* JAVASCRIPT
 
-## Support and contact details 
+Ephraim Kamau
+
+## Description
+
+This is a portfolio project,"Index.html","stlye.css" and applied in this project but the owner of this project is still leaning and willing to inprove in coding/implementing to help any one how need any assistance
+
+## Setup/Installation Requirements GitHub page
+
+- This is a great place
+- to list setup instructions
+- in a simple
+- easy-to-understand
+- format
+  Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on? Nop
+
+## Known Bugs
+
+still leaning how to code
+
+## Technologies Used
+
+- CSS
+- HTML
+- JAVASCRIPT
+
+## Support and contact details
+
 ephraimkamau54@gmail.com/No. 0745734706
+
 ### License
-  
+
 MIT License
 
 Copyright (c) 2021 ephraim-kamau/junior
-
-
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

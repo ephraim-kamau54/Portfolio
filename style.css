@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(41, 61, 11);
+    background-color:greenyellow;
 }
 
 h1 {
@@ -46,19 +46,19 @@ h2{
 }
 
 .outline-button {
-    border: rgba( 247, 240, 240) 2px solid;
+    border: rgb(93, 49, 49) 2px solid;
 	padding: 12px 35px;
-	color: #ccc;
+	color: brown;
 	text-decoration: none;
 	display: inline-block;
 	border-radius: 25px 25px 25px 25px;
-	font-size: 15px;
+	font-size: 20px;
 	margin-top: 7px;
     margin-left: 20%;
 }
 
 .outline-button:hover {
-    background-color: brown;
+    background-color: black;
     color: brown;
     text-decoration: none;
 }
